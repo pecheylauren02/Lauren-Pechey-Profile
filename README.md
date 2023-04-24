@@ -7,7 +7,7 @@ I am Lauren Pechey, a Junior Full Stack Software Developer, currently completing
 ## 🏆 Recent Achievements
 * Merit Grade Awarded for both Projects 1 and 2 - Code Institute 
   * [Project 1 Live Application](https://pecheylauren02.github.io/my-safari/index.html), [Project 1 GitHub Repository](https://github.com/pecheylauren02/my-safari)
-  * [Project 2 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [Project 2 GitHub Repository(https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
+  * [Project 2 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [Project 2 GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
 * Hackathon Participant - New Years Revolutions: Revolutionising finance for 2023 - Jan 2023 - Code Institute
 
 ## 💻 Technologies
